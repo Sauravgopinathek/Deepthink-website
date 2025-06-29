@@ -1,6 +1,8 @@
 
 
 
+
+
 # Deepthink-website
 
 A career development platform built with Bolt AI for the Bolt AI Hackathon.
@@ -12,7 +14,7 @@ A career development platform built with Bolt AI for the Bolt AI Hackathon.
 
 ## 📁 Project File Structure
 
-
+```
 project/
 ├── .bolt/
 │   ├── config.json
