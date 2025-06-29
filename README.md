@@ -1,13 +1,18 @@
+
+
+
 # Deepthink-website
 
-A website professionally built with Bolt AI for the Bolt AI Hackathon.
+A career development platform built with Bolt AI for the Bolt AI Hackathon.
 
 **Live Demo:**  
 [https://teal-elf-5defb0.netlify.app/](https://teal-elf-5defb0.netlify.app/)
 
-## Project File Structure
+---
 
-```
+## 📁 Project File Structure
+
+
 project/
 ├── .bolt/
 │   ├── config.json
@@ -44,8 +49,6 @@ project/
     ├── hooks/
     ├── services/
     └── types/
-```
-
 ## Project Using Bolt AI
 
 A career development platform built with Bolt AI for the Bolt AI Hackathon.
@@ -86,7 +89,7 @@ A career development platform built with Bolt AI for the Bolt AI Hackathon.
    ```
 
 4. **Open in browser:**  
-   Visit [https://teal-elf-5defb0.netlify.app/](https://teal-elf-5defb0.netlify.app/) (or as indicated in your terminal).
+[https://teal-elf-5defb0.netlify.app/](https://teal-elf-5defb0.netlify.app/)
 
 ### Credits
 
