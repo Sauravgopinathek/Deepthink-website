@@ -51,6 +51,7 @@ project/
     ├── hooks/
     ├── services/
     └── types/
+```
 ## Project Using Bolt AI
 
 A career development platform built with Bolt AI for the Bolt AI Hackathon.
