@@ -1,103 +1,95 @@
-
-
-
-
-
 # Deepthink-website
 
-A career development platform built with Bolt AI for the Bolt AI Hackathon.
+A website professionally built with the use of bolt ai for bolt.ai hackathon
 
-**Live Demo:**  
-[https://teal-elf-5defb0.netlify.app/](https://teal-elf-5defb0.netlify.app/)
+## 🚀 Features
+
+- Modern TypeScript development
+- Clean and maintainable code
+- Easy to set up and use
+- Well-documented API
+
+## 📋 Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- Node.js (version 14 or higher)
+- npm or yarn package manager
+
+## 🔧 Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/Sauravgopinathek/Deepthink-website.git
+cd Deepthink-website
+```
+
+2. Install dependencies:
+```bash
+npm install
+```
+
+## 🎯 Usage
+
+Run the application:
+```bash
+npm start
+```
+
+For development:
+```bash
+npm run dev
+```
+
+Build for production:
+```bash
+npm run build
+```
+
+## 🏗️ Project Structure
+
+```
+Deepthink-website/
+├── src/                 # Source files
+├── tests/              # Test files
+├── docs/               # Documentation
+├── package.json
+└── README.md           # This file
+```
+
+## 🤝 Contributing
+
+Contributions are welcome! Here's how you can help:
+
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 👨‍💻 Author
+
+**Sauravgopinathek**
+
+- GitHub: [@Sauravgopinathek](https://github.com/Sauravgopinathek)
+
+## 🙏 Acknowledgments
+
+- Thanks to all contributors who have helped this project grow
+- Inspired by the amazing TypeScript community
+- Built with ❤️ and lots of ☕
+
+## 📊 Project Stats
+
+![GitHub stars](https://img.shields.io/github/stars/Sauravgopinathek/Deepthink-website?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Sauravgopinathek/Deepthink-website?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Sauravgopinathek/Deepthink-website)
+![GitHub license](https://img.shields.io/github/license/Sauravgopinathek/Deepthink-website)
 
 ---
 
-## 📁 Project File Structure
-
-```
-project/
-├── .bolt/
-│   ├── config.json
-│   └── prompt
-├── .gitignore
-├── eslint.config.js
-├── index.html
-├── package.json
-├── postcss.config.js
-├── tailwind.config.js
-├── tsconfig.app.json
-├── tsconfig.json
-├── tsconfig.node.json
-├── vite.config.ts
-├── vite.config.ts.timestamp-1751018182720-060befcc72791.mjs
-├── public/
-│   └── sw.js
-└── src/
-    ├── App.tsx
-    ├── index.css
-    ├── main.tsx
-    ├── vite-env.d.ts
-    ├── components/
-    │   ├── CareerAssessment.tsx
-    │   ├── CareerRoadmap.tsx
-    │   ├── DecisionFramework.tsx
-    │   ├── GoalTracker.tsx
-    │   ├── MentorPlatform.tsx
-    │   ├── ResourceLibrary.tsx
-    │   └── ValuesExplorer.tsx
-    ├── contexts/
-    ├── data/
-    │   └── index.ts
-    ├── hooks/
-    ├── services/
-    └── types/
-```
-## Project Using Bolt AI
-
-A career development platform built with Bolt AI for the Bolt AI Hackathon.
-
-### Features
-
-- Career Assessment
-- Career Roadmap
-- Decision Framework
-- Goal Tracker
-- Mentor Platform
-- Resource Library
-- Values Explorer
-
-### Built With
-
-- [Bolt AI](https://boltai.com/)
-- React + TypeScript
-- Tailwind CSS
-- Vite
-
-### Getting Started
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Sauravgopinathek/Deepthink-website.git
-   cd Deepthink-website
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-
-3. **Run the development server:**
-   ```bash
-   npm run dev
-   ```
-
-4. **Open in browser:**  
-[https://teal-elf-5defb0.netlify.app/](https://teal-elf-5defb0.netlify.app/)
-
-### Credits
-
-- Built by Saurav Gopinath using Bolt AI during the Bolt AI Hackathon.
-
-### License
-
-[MIT](LICENSE)
+⭐ Star this repository if you find it helpful!
